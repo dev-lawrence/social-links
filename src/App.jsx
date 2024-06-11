@@ -72,7 +72,7 @@ const App = () => {
         <img src={ProfileImg} alt="" />
 
         <div className="profile-info">
-          <h1>Jessica Randall</h1>
+          <h1>Dev lawrence</h1>
           <span>London, United Kingdom</span>
         </div>
 
